@@ -1,0 +1,2 @@
+# Glencore_Quant_Trading
+Glencore_Quant_Trading_Competition
